@@ -15,7 +15,7 @@
     <string name="action_cancel_test">cancel test</string>
     <string name="title_connection_timeout">Connection Timeout</string>
     <string name="text_connection_timeout">"Timeout trying to connect to an emulation provider. Make sure you have triggered an emulation in a supported provider.</string>
-    <string name="text_guidance_welcome">Welcome to the Plugin. This is a general purpose mock location implemetation. To enable, take the following steps</string>
+    <string name="text_guidance_welcome">Welcome to the plug-in. This is a Motion Emulator mock location implementation. To enable, take the following steps</string>
     <string name="title_guidance_1">Enable Developer Options</string>
     <string name="text_guidance_1">In Settings > About, click Build number several times until developer options is enabled. Use password when necessary.</string>
     <string name="action_open_about">Open About Device</string>
