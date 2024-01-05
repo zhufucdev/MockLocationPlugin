@@ -22,7 +22,6 @@ import com.zhufucdev.mock_location_plugin.CHANNEL_ID
 import com.zhufucdev.mock_location_plugin.R
 import com.zhufucdev.mock_location_plugin.databinding.ActivityMainBinding
 import com.zhufucdev.mock_location_plugin.updater
-import com.zhufucdev.stub_plugin.MePlugin
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
